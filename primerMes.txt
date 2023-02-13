@@ -137,3 +137,140 @@ Viernes:
 10:30 PM - 6:30 AM: Sueño
 
 semana4 (del 6 al 13)marzo
+Lunes:
+
+8:00 AM - 5:00 PM: Trabajo
+4:00 PM - 6:00 PM: Repaso de materias
+8:00 PM - 8:30 PM: Cena
+10:30 PM - 6:30 AM: Sueño
+Martes:
+
+8:00 AM - 10:00 AM: Materia Info2
+12:00 PM - 2:00 PM: Materia Habilidades Gerenciales
+2:00 PM - 4:00 PM: Trabajo
+4:00 PM - 6:00 PM: Repaso de materias
+6:00 PM - 8:00 PM: Laboratorio
+8:00 PM - 8:30 PM: Cena
+10:30 PM - 6:30 AM: Sueño
+Miércoles:
+
+8:00 AM - 10:00 AM: Materia Probabilidad
+10:00 AM - 12:00 PM: Trabajo
+2:00 PM - 4:00 PM: Materia Discretas
+4:00 PM - 6:00 PM: Repaso de materias
+4:00 PM - 6:00 PM: Trabajo
+6:00 PM - 8:00 PM: Operación de consola de sonido
+8:00 PM - 8:30 PM: Cena
+10:30 PM - 6:30 AM: Sueño
+Jueves:
+
+8:00 AM - 10:00 AM: Materia Info2
+10:00 AM - 12:00 PM: Trabajo
+12:00 PM - 2:00 PM: Materia Habilidades Gerenciales
+2:00 PM - 4:00 PM: Trabajo
+4:00 PM - 6:00 PM: Repaso de materias
+8:00 PM - 8:30 PM: Cena
+10:30 PM - 6:30 AM: Sueño
+Viernes:
+
+8:00 AM - 10:00 AM: Materia Probabilidad
+10:00 AM - 12:00 PM: Trabajo
+2:00 PM - 4:00 PM: Materia Discretas
+4:00 PM - 6:00 PM: Repaso de materias
+4:00 PM - 6:00 PM: Trabajo
+6:00 PM - 8:00 PM: Clases de sonido
+8:00 PM - 8:30 PM: Cena
+10:30 PM - 6:30 AM: Sueño
+
+semana3 (del 27febrero  al 6marzo)
+Lunes:
+
+8:00 AM - 5:00 PM: Trabajo
+4:00 PM - 6:00 PM: Repaso de materias
+8:00 PM - 8:30 PM: Cena
+10:30 PM - 6:30 AM: Sueño
+Martes:
+
+8:00 AM - 10:00 AM: Materia Info2
+12:00 PM - 2:00 PM: Materia Habilidades Gerenciales
+2:00 PM - 4:00 PM: Trabajo
+4:00 PM - 6:00 PM: Repaso de materias
+6:00 PM - 8:00 PM: Laboratorio
+8:00 PM - 8:30 PM: Cena
+10:30 PM - 6:30 AM: Sueño
+Miércoles:
+
+8:00 AM - 10:00 AM: Materia Probabilidad
+10:00 AM - 12:00 PM: Trabajo
+2:00 PM - 4:00 PM: Materia Discretas
+4:00 PM - 6:00 PM: Repaso de materias
+4:00 PM - 6:00 PM: Trabajo
+6:00 PM - 8:00 PM: Operación de consola de sonido
+8:00 PM - 8:30 PM: Cena
+10:30 PM - 6:30 AM: Sueño
+Jueves:
+
+8:00 AM - 10:00 AM: Materia Info2
+10:00 AM - 12:00 PM: Trabajo
+12:00 PM - 2:00 PM: Materia Habilidades Gerenciales
+2:00 PM - 4:00 PM: Trabajo
+4:00 PM - 6:00 PM: Repaso de materias
+8:00 PM - 8:30 PM: Cena
+10:30 PM - 6:30 AM: Sueño
+Viernes:
+
+8:00 AM - 10:00 AM: Materia Probabilidad
+10:00 AM - 12:00 PM: Trabajo
+2:00 PM - 4:00 PM: Materia Discretas
+4:00 PM - 6:00 PM: Repaso de materias
+4:00 PM - 6:00 PM: Trabajo
+6:00 PM - 8:00 PM: Clases de sonido
+8:00 PM - 8:30 PM: Cena
+10:30 PM - 6:30 AM: Sueño
+
+semana4 (6 al 13)marzo
+
+Lunes:
+
+8:00 AM - 5:00 PM: Trabajo
+4:00 PM - 6:00 PM: Repaso de materias
+8:00 PM - 8:30 PM: Cena
+10:30 PM - 6:30 AM: Sueño
+Martes:
+
+8:00 AM - 10:00 AM: Materia Info2
+12:00 PM - 2:00 PM: Materia Habilidades Gerenciales
+2:00 PM - 4:00 PM: Trabajo
+4:00 PM - 6:00 PM: Repaso de materias
+6:00 PM - 8:00 PM: Laboratorio
+8:00 PM - 8:30 PM: Cena
+10:30 PM - 6:30 AM: Sueño
+Miércoles:
+
+8:00 AM - 10:00 AM: Materia Probabilidad
+10:00 AM - 12:00 PM: Trabajo
+2:00 PM - 4:00 PM: Materia Discretas
+4:00 PM - 6:00 PM: Repaso de materias
+4:00 PM - 6:00 PM: Trabajo
+6:00 PM - 8:00 PM: Operación de consola de sonido
+8:00 PM - 8:30 PM: Cena
+10:30 PM - 6:30 AM: Sueño
+Jueves:
+
+8:00 AM - 10:00 AM: Materia Info2
+10:00 AM - 12:00 PM: Trabajo
+12:00 PM - 2:00 PM: Materia Habilidades Gerenciales
+2:00 PM - 4:00 PM: Trabajo
+4:00 PM - 6:00 PM: Repaso de materias
+8:00 PM - 8:30 PM: Cena
+10:30 PM - 6:30 AM: Sueño
+Viernes:
+
+8:00 AM - 10:00 AM: Materia Probabilidad
+10:00 AM - 12:00 PM: Trabajo
+2:00 PM - 4:00 PM: Materia Discretas
+4:00 PM - 6:00 PM: Repaso de materias
+4:00 PM - 6:00 PM: Trabajo
+6:00 PM - 8:00 PM: Clases de sonido
+8:00 PM - 8:30 PM: Cena
+10:30 PM - 6:30 AM: Sueño
