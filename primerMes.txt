@@ -1,10 +1,13 @@
 semana 1 (del 13 al 20)febrero
+----------------------------------
 Lunes:
 
 8:00 AM - 5:00 PM: Trabajo
 4:00 PM - 6:00 PM: Repaso de materias
 8:00 PM - 8:30 PM: Cena
 10:30 PM - 6:30 AM: Sueño
+---------------------------------
+
 Martes:
 
 8:00 AM - 10:00 AM: Materia Info2
@@ -14,6 +17,7 @@ Martes:
 6:00 PM - 8:00 PM: Laboratorio
 8:00 PM - 8:30 PM: Cena
 10:30 PM - 6:30 AM: Sueño
+--------------------------------------
 Miércoles:
 
 8:00 AM - 10:00 AM: Materia Probabilidad
@@ -24,6 +28,7 @@ Miércoles:
 6:00 PM - 8:00 PM: Operación de consola de sonido
 8:00 PM - 8:30 PM: Cena
 10:30 PM - 6:30 AM: Sueño
+---------------------------------------------
 Jueves:
 
 8:00 AM - 10:00 AM: Materia Info2
@@ -33,7 +38,9 @@ Jueves:
 4:00 PM - 6:00 PM: Repaso de materias
 8:00 PM - 8:30 PM: Cena
 10:30 PM - 6:30 AM: Sueño
+-----------------------------------------------
 Viernes:
+
 
 8:00 AM - 10:00 AM: Materia Probabilidad
 10:00 AM - 12:00 PM: Trabajo
@@ -54,6 +61,7 @@ Lunes:
 4:00 PM - 6:00 PM: Repaso de materias
 8:00 PM - 8:30 PM: Cena
 10:30 PM - 6:30 AM: Sueño
+-------------------------------------
 Martes:
 
 8:00 AM - 10:00 AM: Materia Info2
@@ -63,6 +71,7 @@ Martes:
 6:00 PM - 8:00 PM: Laboratorio
 8:00 PM - 8:30 PM: Cena
 10:30 PM - 6:30 AM: Sueño
+--------------------------------
 Miércoles:
 
 8:00 AM - 10:00 AM: Materia Probabilidad
@@ -73,6 +82,8 @@ Miércoles:
 6:00 PM - 8:00 PM: Operación de consola de sonido
 8:00 PM - 8:30 PM: Cena
 10:30 PM - 6:30 AM: Sueño
+
+------------------------------------------------
 Jueves:
 
 8:00 AM - 10:00 AM: Materia Info2
@@ -82,6 +93,8 @@ Jueves:
 4:00 PM - 6:00 PM: Repaso de materias
 8:00 PM - 8:30 PM: Cena
 10:30 PM - 6:30 AM: Sueño
+
+---------------------------------------------------
 Viernes:
 
 8:00 AM - 10:00 AM: Materia Probabilidad
@@ -102,6 +115,7 @@ Lunes:
 4:00 PM - 6:00 PM: Repaso de materias
 8:00 PM - 8:30 PM: Cena
 10:30 PM - 6:30 AM: Sueño
+--------------------------------------------------
 Martes:
 
 8:00 AM - 10:00 AM: Materia Info2
@@ -111,6 +125,7 @@ Martes:
 6:00 PM - 8:00 PM: Laboratorio
 8:00 PM - 8:30 PM: Cena
 10:30 PM - 6:30 AM: Sueño
+------------------------------------------------
 Miércoles:
 
 8:00 AM - 10:00 AM: Materia Probabilidad
@@ -121,6 +136,8 @@ Miércoles:
 6:00 PM - 8:00 PM: Operación de consola de sonido
 8:00 PM - 8:30 PM: Cena
 10:30 PM - 6:30 AM: Sueño
+
+--------------------------------------------------
 Jueves:
 
 8:00 AM - 10:00 AM: Materia Info2
@@ -130,6 +147,7 @@ Jueves:
 4:00 PM - 6:00 PM: Repaso de materias
 8:00 PM - 8:30 PM: Cena
 10:30 PM - 6:30 AM: Sueño
+----------------------------------------------------
 Viernes:
 
 8:00 AM - 10:00 AM: Materia Probabilidad
@@ -150,6 +168,7 @@ Lunes:
 4:00 PM - 6:00 PM: Repaso de materias
 8:00 PM - 8:30 PM: Cena
 10:30 PM - 6:30 AM: Sueño
+---------------------------------------------
 Martes:
 
 8:00 AM - 10:00 AM: Materia Info2
@@ -159,6 +178,7 @@ Martes:
 6:00 PM - 8:00 PM: Laboratorio
 8:00 PM - 8:30 PM: Cena
 10:30 PM - 6:30 AM: Sueño
+----------------------------------------------
 Miércoles:
 
 8:00 AM - 10:00 AM: Materia Probabilidad
@@ -169,6 +189,8 @@ Miércoles:
 6:00 PM - 8:00 PM: Operación de consola de sonido
 8:00 PM - 8:30 PM: Cena
 10:30 PM - 6:30 AM: Sueño
+
+-----------------------------------------------------
 Jueves:
 
 8:00 AM - 10:00 AM: Materia Info2
@@ -178,6 +200,8 @@ Jueves:
 4:00 PM - 6:00 PM: Repaso de materias
 8:00 PM - 8:30 PM: Cena
 10:30 PM - 6:30 AM: Sueño
+
+---------------------------------------------------
 Viernes:
 
 8:00 AM - 10:00 AM: Materia Probabilidad
